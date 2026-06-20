@@ -1,0 +1,21 @@
+
+> dashboard-reactjs-frontend@0.1.0 start
+> set PORT=3002 && react-scripts start
+
+Starting the development server...
+
+Compiled with warnings.
+
+Warning
+(6:61388) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+[1mModule Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:61388) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently [1m[33mdeprecated[39m[22m[1m.[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m

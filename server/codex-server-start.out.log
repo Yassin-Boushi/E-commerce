@@ -1,0 +1,9 @@
+
+> server@1.0.0 start
+> node index.js
+
+Stripe Secret Key Loaded: Yes
+Database Connection is ready...
+server is running http://localhost:8000
+orders
+orders
